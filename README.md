@@ -1,5 +1,5 @@
- AI Mood-Based Wellness Recommender
-This project is an AI-powered wellness assistant that provides personalized wellness activity recommendations based on the user's mood, location (weather), age, and gender.
+                                                ****** AI Mood-Based Wellness Recommender******
+This project is an AI-powered wellness assistant Athat provides personalized wellness activity recommendations based on the user's mood, location (weather), age, and gender.
 
 Built using Streamlit, it combines NLP sentiment analysis, live weather data, and rule-based logic to suggest mood-lifting activities.
 
